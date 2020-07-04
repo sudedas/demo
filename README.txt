@@ -7,13 +7,3 @@ Adding line for simple branch
 this is not bad uodate
 
 Something going on.
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-In between work of stashing in master branch
-=======
-New chnages Stash 1.0
->>>>>>> Stashed changes
-=======
-New chnages Stash 1.0
->>>>>>> Stashed changes
