@@ -7,3 +7,5 @@ Adding line for simple branch
 this is not bad uodate
 
 Something going on.
+
+In between work of stashing in master branch
